@@ -1,0 +1,21 @@
+
+RANDOM:
+How often get this solution in fewer than 20 guesses?
+        Never. And there is nothing good about this other than the fact that it is trying something.
+        The theory tested matters very little since it is always random.
+
+MINE:
+How often get this solution in fewer than 20 guesses?
+        Every time. The 20 is hit only when the solution is the very last option in the list, ie, the weapon
+        is the 6th one, the location is the 10th one, etc.
+
+        This happens because we start at the beginning (1) for each option and then increment the weapon/location/murder
+        by 1 each time it is confirmed that the solution is incorrect.
+
+        This depends on whether it is the first solution (1,1,1) or if it is the very last option (6,10,6). Since the
+        (1,1,1) is the very first option, it is returned the fastest. The (6,10,6) is the very last option and will return
+        with the most tries, 20. Random choices would be in between those two tries (1 for the least, and 20 for the most)
+        and therefore will return somewhere in between 1 and 20 guesses.
+
+        That is what is good about the strategy, a logical progression of guesses. What is bad, is that I couldn't get it
+        to guess under 20.

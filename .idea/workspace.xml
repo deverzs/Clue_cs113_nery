@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb220f6a-758b-45b0-a751-c1099517a9a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayedClue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/model/AssistantJackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/model/AssistantJackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayClueAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/miracosta/cs113/Questions Answered Dianovics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,27 +27,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Questions Answered Dianovics" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2357" />
+          <entry key="Questions Answered Dianovics" value="1236" />
+          <entry key="java" value="2898" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2357" />
+          <entry key="JAVA" value="2898" />
+          <entry key="PLAIN_TEXT" value="1236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -69,6 +73,15 @@
                 <caret line="28" selection-start-line="28" selection-end-line="28" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/Questions Answered Dianovics">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -108,11 +121,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayedClue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            <state relative-caret-position="250">
+              <caret line="87" column="44" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayClueAgain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-273">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/model/AssistantJackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="336">
               <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -159,6 +184,8 @@
         <option value="$PROJECT_DIR$/src/edu/miracosta/cs113/RandomClue.java" />
         <option value="$PROJECT_DIR$/test/model/AssistantJackTest.java" />
         <option value="$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayedClue.java" />
+        <option value="$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayClueAgain.java" />
+        <option value="$PROJECT_DIR$/src/edu/miracosta/cs113/Questions Answered Dianovics" />
       </list>
     </option>
   </component>
@@ -168,7 +195,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -234,7 +261,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535565518472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535570269565" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -253,9 +280,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayedClue">
+  <component name="RunManager" selected="Application.ArrayClueAgain">
+    <configuration name="ArrayClueAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.miracosta.cs113.ArrayClueAgain" />
+      <module name="cs113-hw01-clue-deverzs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.miracosta.cs113.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayedClue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.miracosta.cs113.ArrayedClue" />
+      <module name="cs113-hw01-clue-deverzs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.miracosta.cs113.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayedClueAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.miracosta.cs113.ArrayedClueAgain" />
       <module name="cs113-hw01-clue-deverzs" />
       <extension name="coverage">
         <pattern>
@@ -298,9 +351,13 @@
       <item itemvalue="Application.RandomClue" />
       <item itemvalue="JUnit.AssistantJackTest" />
       <item itemvalue="Application.ArrayedClue" />
+      <item itemvalue="Application.ArrayedClueAgain" />
+      <item itemvalue="Application.ArrayClueAgain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayClueAgain" />
+        <item itemvalue="Application.ArrayedClueAgain" />
         <item itemvalue="Application.ArrayedClue" />
         <item itemvalue="Application.RandomClue" />
         <item itemvalue="JUnit.AssistantJackTest" />
@@ -320,7 +377,7 @@
       <workItem from="1535502199437" duration="2555000" />
       <workItem from="1535505005179" duration="2532000" />
       <workItem from="1535550027105" duration="2755000" />
-      <workItem from="1535553015479" duration="8293000" />
+      <workItem from="1535553015479" duration="11568000" />
     </task>
     <servers />
   </component>
@@ -330,7 +387,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16135000" />
+    <option name="totallyTimeSpent" value="19410000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -342,7 +399,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2418" height="1320" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -350,14 +407,14 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14773698" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1858217" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32969698" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295583" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.30804077" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32869565" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.42954546" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3997735" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -384,16 +441,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cs113-hw01-clue-deverzs.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="588">
-            <caret line="28" selection-start-line="28" selection-end-line="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -424,16 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/model/AssistantJackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/model/TheoryItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -441,13 +478,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayedClue.java">
+    <entry file="file://$PROJECT_DIR$/test/model/AssistantJackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        <state relative-caret-position="336">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayedClue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="87" column="44" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/ArrayClueAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="588">
+            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/miracosta/cs113/Questions Answered Dianovics">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
